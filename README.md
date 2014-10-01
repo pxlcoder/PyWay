@@ -5,9 +5,7 @@ An unofficial MiWay (Mississauga Transit) API written in Python.
 
 Usage:
 
-```
-#demo.py
-
+```python
 import PyWay
 
 p = PyWay.createInterface()
